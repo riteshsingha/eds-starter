@@ -13,15 +13,15 @@
 :root {
   /* colors */
   --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  --light-color: #f8fafc;
+  --dark-color: #475569;
+  --text-color: #0f172a;
+  --link-color: #4f46e5;
+  --link-hover-color: #3730a3;
 
   /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+  --body-font-family: system-ui, -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, oxygen, ubuntu, cantarell, sans-serif;
+  --heading-font-family: system-ui, -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, sans-serif;
 
   /* body sizes */
   --body-font-size-m: 22px;
