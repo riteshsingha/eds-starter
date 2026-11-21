@@ -1,9 +1,14 @@
-# Your Project's Title...
-Your project's description...
+# My EDS Project
+
+Adobe Edge Delivery Services site powered by Google Drive content authoring.
+
+## Content Source
+- Google Drive: [Project Documents Folder](https://drive.google.com/drive/folders/1qQxWTrpovioEnlw6UtxLIqK2pTnFwG4S)
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: `https://main--<repo>--<owner>.aem.page/`
+- Live: `https://main--<repo>--<owner>.aem.live/`
+- Local: `http://localhost:3000/`
 
 ## Documentation
 
